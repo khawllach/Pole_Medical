@@ -10,7 +10,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=reactrouter&logoColor=white)
 
-[Live Demo](#) · [Report a Bug](https://github.com/khawllach/Pole_Medical/issues) · [Request a Feature](https://github.com/khawllach/Pole_Medical/issues)
 
 </div>
 
@@ -22,16 +21,18 @@
 
 The project is built with a type-safe, modern toolchain: React 19 and TypeScript for the UI, React Router for multi-page navigation, Tailwind CSS v4 for styling, and Vite for lightning-fast builds.
 
-> ✏️ **Add 2–3 sentences here** describing exactly what Pole Medical offers (appointment booking, doctor profiles, services, patient space, etc.) and who it is for.
 
 ## 🖼️ Preview
 
-<!--
-Add screenshots here. Tip: create a `screenshots/` folder in the repo, commit your images,
-and reference them like this:
+<img width="1264" height="621" alt="{FEAFF78D-027B-401E-8793-1BF70F630A76}" src="https://github.com/user-attachments/assets/6bcd45a4-b910-4a64-854c-1b71f01badc6" />
+<img width="1261" height="615" alt="{70587EB9-82DA-4295-A605-412930D5A894}" src="https://github.com/user-attachments/assets/7efad7ac-6ebe-4a8f-b494-09a35bea706a" />
+<img width="1257" height="615" alt="image" src="https://github.com/user-attachments/assets/05d2a4a1-a344-4155-b8ec-dad866a3710a" />
+<img width="1262" height="617" alt="{97B72155-C848-43CD-AA29-FED372A2C195}" src="https://github.com/user-attachments/assets/51922cdb-7099-4b93-ab98-0c35acabe519" />
+<img width="1259" height="612" alt="{A7CAE35C-43E1-4876-8EFE-562669538296}" src="https://github.com/user-attachments/assets/a4f9d7cf-b386-4e42-b59e-c857b6a4593a" />
+<img width="1263" height="620" alt="{B31F5E52-3010-4161-B01F-62C0C546C647}" src="https://github.com/user-attachments/assets/9b7de8a9-160c-494a-a8c7-b5a663d18834" />
 
-![Home page](./screenshots/home.png)
--->
+
+
 
 ## ✨ Features
 
@@ -55,22 +56,6 @@ and reference them like this:
 | Styling | [Tailwind CSS 4](https://tailwindcss.com/) |
 | Linting | [Oxlint](https://oxc.rs/docs/guide/usage/linter) |
 
-## 📁 Project Structure
-
-```
-Pole_Medical/
-├── public/                 # Static assets (favicon, images, etc.)
-├── src/                    # Application source code
-├── index.html              # HTML template
-├── vite.config.ts          # Vite configuration
-├── tsconfig.json           # TypeScript configuration
-├── tsconfig.app.json       # TypeScript config for the app
-├── tsconfig.node.json      # TypeScript config for Node tooling
-├── .oxlintrc.json          # Oxlint configuration
-└── package.json            # Dependencies and scripts
-```
-
-> ✏️ Expand the `src/` section with your real folders (for example `components/`, `pages/`, `assets/`, `App.tsx`, `main.tsx`).
 
 ## 🚀 Getting Started
 
